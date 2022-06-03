@@ -91,3 +91,10 @@ Its stops the execution of the tread, and moves the green threads to kernel thre
 
 New Thread created while the Yellow Thread waits on the disk.
 ![Go Threads 4](../media/go_threads04.png)
+
+
+## Sharing Memory between threads
+
+### Inter-Process Communication (IPC)
+
+Also known as message passing.
